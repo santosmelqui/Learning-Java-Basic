@@ -2,7 +2,7 @@ package senai;
 
 import java.util.Scanner;
 
-public class ProjectUser {
+public class Project01LoginSenha {
     public static void main (String[] args) {
         Scanner in = new Scanner(System.in);
 
